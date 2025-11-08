@@ -1,9 +1,9 @@
 # Dos
-
+![Dos](https://github.com/xssis57/Dos/blob/main/dos/dos/Images/1.png)
 
 
 ## 📥 Download Latest Stable Release
-
+https://github.com/xssis57/Dos/releases/download/Dos/Pre-Compiled.zip
 
 ## **Disclaimer:**
 
